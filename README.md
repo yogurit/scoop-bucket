@@ -1,2 +1,3 @@
-# scoop-bucket
-A tiny bucket for personal use.
+# Yono Bucket
+
+`scoop bucket add yono 'https://github.com/yogurit/scoop-bucket.git'`
